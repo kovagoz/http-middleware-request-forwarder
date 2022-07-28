@@ -3,6 +3,8 @@
 The aim of this library is to make it possible to pass the HTTP request to
 another handler, creating a so-called internal redirect.
 
+![phpunit workflow](https://github.com/kovagoz/http-middleware-request-forwarder/actions/workflows/php.yml/badge.svg)
+
 ## Requirements
 
 * PHP >= 8.0
